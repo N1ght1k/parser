@@ -1,0 +1,4471 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<flight_list now="2020-08-10T11:20:28.000">
+	<block>
+		<flight>SU1144</flight>
+		<ru_flight_number>СУ-1144</ru_flight_number>
+		<en_flight_number>SU-1144</en_flight_number>
+		<plan>09.08 00:15</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>08.08 23:50</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>08.08 21:57</dt_dept_fact>
+		<flight_id>Р0000044381</flight_id>
+		<airline_id>275</airline_id>
+		<fact>08.08 23:51</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5925</flight>
+		<ru_flight_number>ФВ-5925</ru_flight_number>
+		<en_flight_number>FV-5925</en_flight_number>
+		<plan>09.08 03:20</plan>
+		<airport>Тюмень (Рощино)</airport>
+		<ru_airport>Тюмень (Рощино)</ru_airport>
+		<en_airport>Tyumen</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 03:15</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 02:00</DelayedTo>
+		<dt_dept_fact>09.08 02:03</dt_dept_fact>
+		<flight_id>Р0000044360</flight_id>
+		<airline_id>127</airline_id>
+		<fact>09.08 03:11</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT457</flight>
+		<ru_flight_number>ЮТ-457</ru_flight_number>
+		<en_flight_number>UT-457</en_flight_number>
+		<plan>09.08 05:30</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 05:20</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 03:29</dt_dept_fact>
+		<flight_id>Р0000045119</flight_id>
+		<airline_id>143</airline_id>
+		<fact>09.08 05:19</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>ZF337</flight>
+		<ru_flight_number>КЮ-337</ru_flight_number>
+		<en_flight_number>ZF-337</en_flight_number>
+		<plan>09.08 06:55</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>АЗУР эйр ООО</airline>
+		<en_airline>AZUR air Limited Liability Company</en_airline>
+		<ru_airline>АЗУР эйр ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 08:15</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 07:05</DelayedTo>
+		<dt_dept_fact>09.08 07:22</dt_dept_fact>
+		<flight_id>Р0000044354</flight_id>
+		<airline_id>6225</airline_id>
+		<fact>09.08 08:08</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5561</flight>
+		<ru_flight_number>ФВ-5561</ru_flight_number>
+		<en_flight_number>FV-5561</en_flight_number>
+		<plan>09.08 06:55</plan>
+		<airport>Новосибирск (ТЛЧ)</airport>
+		<ru_airport>Новосибирск (ТЛЧ)</ru_airport>
+		<en_airport>Novosibirsk</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 07:55</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 07:16</DelayedTo>
+		<dt_dept_fact>09.08 07:39</dt_dept_fact>
+		<flight_id>Р0000044361</flight_id>
+		<airline_id>127</airline_id>
+		<fact>09.08 08:02</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP394</flight>
+		<ru_flight_number>ДР-394</ru_flight_number>
+		<en_flight_number>DP-394</en_flight_number>
+		<plan>09.08 07:00</plan>
+		<airport>Челябинск (Баландино)</airport>
+		<ru_airport>Челябинск (Баландино)</ru_airport>
+		<en_airport>Chelyabinsk</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 06:55</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 05:58</dt_dept_fact>
+		<flight_id>Р0000044279</flight_id>
+		<airline_id>9279</airline_id>
+		<fact>09.08 06:49</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP1303</flight>
+		<ru_flight_number>ДР-1303</ru_flight_number>
+		<en_flight_number>DP-1303</en_flight_number>
+		<plan>09.08 07:30</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 08:15</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 07:25</DelayedTo>
+		<dt_dept_fact>09.08 07:39</dt_dept_fact>
+		<flight_id>Р0000044272</flight_id>
+		<airline_id>9279</airline_id>
+		<fact>09.08 08:30</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>6R501</flight>
+		<ru_flight_number>ЯМ-501</ru_flight_number>
+		<en_flight_number>6R-501</en_flight_number>
+		<plan>09.08 07:30</plan>
+		<airport>Томск</airport>
+		<ru_airport>Томск</ru_airport>
+		<en_airport>Tomsk</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>АЛРОСА А/К АО</airline>
+		<en_airline>Diamonds of rossia-sakha</en_airline>
+		<ru_airline>АЛРОСА А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 08:15</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 07:31</DelayedTo>
+		<dt_dept_fact>09.08 07:31</dt_dept_fact>
+		<flight_id>Р0000044302</flight_id>
+		<airline_id>78</airline_id>
+		<fact>09.08 07:59</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT501</flight>
+		<ru_flight_number>ЮТ-501</ru_flight_number>
+		<en_flight_number>UT-501</en_flight_number>
+		<plan>09.08 08:30</plan>
+		<airport>Сургут</airport>
+		<ru_airport>Сургут</ru_airport>
+		<en_airport>Surgut</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 08:25</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 06:20</dt_dept_fact>
+		<flight_id>Р0000044268</flight_id>
+		<airline_id>143</airline_id>
+		<fact>09.08 08:18</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1782</flight>
+		<ru_flight_number>СУ-1782</ru_flight_number>
+		<en_flight_number>SU-1782</en_flight_number>
+		<plan>09.08 08:40</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 06:40</dt_dept_fact>
+		<flight_id>Р0000045121</flight_id>
+		<airline_id>275</airline_id>
+		<fact>09.08 08:48</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1146</flight>
+		<ru_flight_number>СУ-1146</ru_flight_number>
+		<en_flight_number>SU-1146</en_flight_number>
+		<plan>09.08 08:50</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 08:25</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 06:35</dt_dept_fact>
+		<flight_id>Р0000044340</flight_id>
+		<airline_id>275</airline_id>
+		<fact>09.08 08:26</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U61315</flight>
+		<ru_flight_number>У6-1315</ru_flight_number>
+		<en_flight_number>U6-1315</en_flight_number>
+		<plan>09.08 09:15</plan>
+		<airport>Москва (Жуковский)</airport>
+		<ru_airport>Москва (Жуковский)</ru_airport>
+		<en_airport>Moscow (Zhukov)</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 09:22</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 07:07</dt_dept_fact>
+		<flight_id>Р0000044285</flight_id>
+		<airline_id>42</airline_id>
+		<fact>09.08 08:54</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5515</flight>
+		<ru_flight_number>ФВ-5515</ru_flight_number>
+		<en_flight_number>FV-5515</en_flight_number>
+		<plan>09.08 09:30</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 09:24</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 07:40</DelayedTo>
+		<dt_dept_fact>09.08 07:34</dt_dept_fact>
+		<flight_id>Р0000044364</flight_id>
+		<airline_id>127</airline_id>
+		<fact>09.08 09:30</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72101</flight>
+		<ru_flight_number>С7-2101</ru_flight_number>
+		<en_flight_number>S7-2101</en_flight_number>
+		<plan>09.08 09:50</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 09:33</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 07:39</dt_dept_fact>
+		<flight_id>Р0000044293</flight_id>
+		<airline_id>105</airline_id>
+		<fact>09.08 09:27</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1546</flight>
+		<ru_flight_number>СУ-1546</ru_flight_number>
+		<en_flight_number>SU-1546</en_flight_number>
+		<plan>09.08 10:35</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 10:11</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 08:20</dt_dept_fact>
+		<flight_id>Р0000044342</flight_id>
+		<airline_id>275</airline_id>
+		<fact>09.08 10:12</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72103</flight>
+		<ru_flight_number>С7-2103</ru_flight_number>
+		<en_flight_number>S7-2103</en_flight_number>
+		<plan>09.08 10:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 10:29</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 08:35</dt_dept_fact>
+		<flight_id>Р0000044280</flight_id>
+		<airline_id>105</airline_id>
+		<fact>09.08 10:23</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>6R510</flight>
+		<ru_flight_number>ЯМ-510</ru_flight_number>
+		<en_flight_number>6R-510</en_flight_number>
+		<plan>09.08 10:45</plan>
+		<airport>Новокузнецк (Спиченково)</airport>
+		<ru_airport>Новокузнецк (Спиченково)</ru_airport>
+		<en_airport>Novokuznetsk</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>АЛРОСА А/К АО</airline>
+		<en_airline>Diamonds of rossia-sakha</en_airline>
+		<ru_airline>АЛРОСА А/К АО</ru_airline>
+		<ru_aircraft>Б737-7</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 11:20</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 10:15</dt_dept_fact>
+		<flight_id>Р0000044310</flight_id>
+		<airline_id>78</airline_id>
+		<fact>09.08 11:03</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>N4181</flight>
+		<ru_flight_number>КЛ-181</ru_flight_number>
+		<en_flight_number>N4-181</en_flight_number>
+		<plan>09.08 10:55</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Северный Ветер ООО</airline>
+		<en_airline>b66ea8a8-5bfa-11e2-8b35-441ea14957ee</en_airline>
+		<ru_airline>Северный Ветер ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 10:36</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 08:38</dt_dept_fact>
+		<flight_id>Р0000044375</flight_id>
+		<airline_id>6054</airline_id>
+		<fact>09.08 10:26</fact>
+		<sched>DOM</sched>
+		<codeschare>EO181,EO181,EO181</codeschare>
+	</block>
+	<block>
+		<flight>5N107</flight>
+		<ru_flight_number>5Н-107</ru_flight_number>
+		<en_flight_number>5N-107</en_flight_number>
+		<plan>09.08 10:55</plan>
+		<airport>Сыктывкар</airport>
+		<ru_airport>Сыктывкар</ru_airport>
+		<en_airport>Syktyvkar</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Нордавиа - РА А/К ЗАО</airline>
+		<en_airline>Arkhangelsk airlines </en_airline>
+		<ru_airline>Нордавиа - РА А/К ЗАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 10:33</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 07:47</dt_dept_fact>
+		<flight_id>Р0000044379</flight_id>
+		<airline_id>1002</airline_id>
+		<fact>09.08 10:34</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>Y71051</flight>
+		<ru_flight_number>ТИ-1051</ru_flight_number>
+		<en_flight_number>Y7-1051</en_flight_number>
+		<plan>09.08 11:10</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>НордСтар АК АО</airline>
+		<en_airline>Aviata</en_airline>
+		<ru_airline>НордСтар АК АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 11:32</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 09:12</dt_dept_fact>
+		<flight_id>Р0000044306</flight_id>
+		<airline_id>4211</airline_id>
+		<fact>09.08 10:58</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT392</flight>
+		<ru_flight_number>ЮТ-392</ru_flight_number>
+		<en_flight_number>UT-392</en_flight_number>
+		<plan>09.08 11:30</plan>
+		<airport>Уфа</airport>
+		<ru_airport>Уфа</ru_airport>
+		<en_airport>Ufa</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 10:50</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 10:40</dt_dept_fact>
+		<flight_id>Р0000044290</flight_id>
+		<airline_id>143</airline_id>
+		<fact>09.08 11:07</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72111</flight>
+		<ru_flight_number>С7-2111</ru_flight_number>
+		<en_flight_number>S7-2111</en_flight_number>
+		<plan>09.08 11:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 11:50</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 09:30</dt_dept_fact>
+		<flight_id>Р0000044307</flight_id>
+		<airline_id>105</airline_id>
+		<fact>09.08 11:20</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6143</flight>
+		<ru_flight_number>У6-143</ru_flight_number>
+		<en_flight_number>U6-143</en_flight_number>
+		<plan>09.08 11:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 11:22</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 09:37</dt_dept_fact>
+		<flight_id>Р0000044298</flight_id>
+		<airline_id>42</airline_id>
+		<fact>09.08 11:24</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV6201</flight>
+		<ru_flight_number>ФВ-6201</ru_flight_number>
+		<en_flight_number>FV-6201</en_flight_number>
+		<plan>09.08 11:55</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>А-319</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 11:35</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 08:59</dt_dept_fact>
+		<flight_id>Р0000044319</flight_id>
+		<airline_id>127</airline_id>
+		<fact>09.08 11:36</fact>
+		<sched>DOM</sched>
+		<codeschare>SU6201</codeschare>
+	</block>
+	<block>
+		<flight>S75123</flight>
+		<ru_flight_number>С7-5123</ru_flight_number>
+		<en_flight_number>S7-5123</en_flight_number>
+		<plan>09.08 12:25</plan>
+		<airport>Новосибирск (ТЛЧ)</airport>
+		<ru_airport>Новосибирск (ТЛЧ)</ru_airport>
+		<en_airport>Novosibirsk</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 12:33</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 11:50</DelayedTo>
+		<dt_dept_fact>09.08 12:03</dt_dept_fact>
+		<flight_id>Р0000044294</flight_id>
+		<airline_id>105</airline_id>
+		<fact>09.08 12:28</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6345</flight>
+		<ru_flight_number>У6-345</ru_flight_number>
+		<en_flight_number>U6-345</en_flight_number>
+		<plan>09.08 12:30</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-319</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 12:37</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 09:37</dt_dept_fact>
+		<flight_id>Р0000044300</flight_id>
+		<airline_id>42</airline_id>
+		<fact>09.08 12:17</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>7R349</flight>
+		<ru_flight_number>РГ-349</ru_flight_number>
+		<en_flight_number>7R-349</en_flight_number>
+		<plan>09.08 12:40</plan>
+		<airport>Брянск</airport>
+		<ru_airport>Казань (Основной) Брянск</ru_airport>
+		<en_airport>Kazan Briansk</en_airport>
+		<airports>
+			<item en_airport_1="Kazan" ru_airport_1="Казань (Основной)" airport_1="Казань (Основной)"/>
+		</airports>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>РусЛайн А/К АО</airline>
+		<en_airline>Ruslines</en_airline>
+		<ru_airline>РусЛайн А/К АО</ru_airline>
+		<ru_aircraft>Bombardier CRJ200</ru_aircraft>
+		<en_aircraft>Bombardier CRJ200 </en_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 12:46</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 10:36</dt_dept_fact>
+		<flight_id>Р0000044330</flight_id>
+		<airline_id>4214</airline_id>
+		<fact>09.08 12:30</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72109</flight>
+		<ru_flight_number>С7-2109</ru_flight_number>
+		<en_flight_number>S7-2109</en_flight_number>
+		<plan>09.08 12:55</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 12:46</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 10:50</dt_dept_fact>
+		<flight_id>Р0000044314</flight_id>
+		<airline_id>105</airline_id>
+		<fact>09.08 12:38</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>RL705</flight>
+		<ru_flight_number>ГН-705</ru_flight_number>
+		<en_flight_number>RL-705</en_flight_number>
+		<plan>09.08 13:00</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>РОЯЛ ФЛАЙТ А/К АО</airline>
+		<ru_airline>РОЯЛ ФЛАЙТ А/К АО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 13:10</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 11:10</dt_dept_fact>
+		<flight_id>Р0000044326</flight_id>
+		<airline_id>6171</airline_id>
+		<fact>09.08 12:57</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5921</flight>
+		<ru_flight_number>ФВ-5921</ru_flight_number>
+		<en_flight_number>FV-5921</en_flight_number>
+		<plan>09.08 13:30</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 14:25</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 14:20</DelayedTo>
+		<dt_dept_fact>09.08 13:38</dt_dept_fact>
+		<flight_id>Р0000044365</flight_id>
+		<airline_id>127</airline_id>
+		<fact>09.08 14:24</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72113</flight>
+		<ru_flight_number>С7-2113</ru_flight_number>
+		<en_flight_number>S7-2113</en_flight_number>
+		<plan>09.08 13:50</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 13:34</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 11:40</dt_dept_fact>
+		<flight_id>Р0000044322</flight_id>
+		<airline_id>105</airline_id>
+		<fact>09.08 13:27</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT1515</flight>
+		<ru_flight_number>ЮТ-1515</ru_flight_number>
+		<en_flight_number>UT-1515</en_flight_number>
+		<plan>09.08 14:10</plan>
+		<airport>Тюмень (Рощино)</airport>
+		<ru_airport>Тюмень (Рощино)</ru_airport>
+		<en_airport>Tyumen</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 14:10</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 12:30</dt_dept_fact>
+		<flight_id>Р0000044265</flight_id>
+		<airline_id>143</airline_id>
+		<fact>09.08 13:47</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP307</flight>
+		<ru_flight_number>ДР-307</ru_flight_number>
+		<en_flight_number>DP-307</en_flight_number>
+		<plan>09.08 14:15</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 14:10</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 11:32</dt_dept_fact>
+		<flight_id>Р0000044286</flight_id>
+		<airline_id>9279</airline_id>
+		<fact>09.08 14:09</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U687</flight>
+		<ru_flight_number>У6-87</ru_flight_number>
+		<en_flight_number>U6-87</en_flight_number>
+		<plan>09.08 14:20</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 14:15</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 12:27</dt_dept_fact>
+		<flight_id>Р0000044336</flight_id>
+		<airline_id>42</airline_id>
+		<fact>09.08 14:16</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT1015</flight>
+		<ru_flight_number>ЮТ-1015</ru_flight_number>
+		<en_flight_number>UT-1015</en_flight_number>
+		<plan>09.08 14:40</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-4</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 14:40</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 13:40</dt_dept_fact>
+		<flight_id>Р0000044312</flight_id>
+		<airline_id>143</airline_id>
+		<fact>09.08 14:34</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP151</flight>
+		<ru_flight_number>ДР-151</ru_flight_number>
+		<en_flight_number>DP-151</en_flight_number>
+		<plan>09.08 14:40</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 14:45</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 12:58</dt_dept_fact>
+		<flight_id>Р0000044325</flight_id>
+		<airline_id>9279</airline_id>
+		<fact>09.08 14:47</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72105</flight>
+		<ru_flight_number>С7-2105</ru_flight_number>
+		<en_flight_number>S7-2105</en_flight_number>
+		<plan>09.08 15:25</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 15:10</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 13:21</dt_dept_fact>
+		<flight_id>Р0000044335</flight_id>
+		<airline_id>105</airline_id>
+		<fact>09.08 15:15</fact>
+		<sched>DOM</sched>
+		<codeschare>BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805</codeschare>
+	</block>
+	<block>
+		<flight>S75125</flight>
+		<ru_flight_number>С7-5125</ru_flight_number>
+		<en_flight_number>S7-5125</en_flight_number>
+		<plan>09.08 15:25</plan>
+		<airport>Новосибирск (ТЛЧ)</airport>
+		<ru_airport>Новосибирск (ТЛЧ)</ru_airport>
+		<en_airport>Novosibirsk</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 15:05</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 14:41</dt_dept_fact>
+		<flight_id>Р0000044333</flight_id>
+		<airline_id>105</airline_id>
+		<fact>09.08 15:07</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>R3769</flight>
+		<ru_flight_number>ЯК-769</ru_flight_number>
+		<en_flight_number>R3-769</en_flight_number>
+		<plan>09.08 15:30</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>АО "АВИАКОМПАНИЯ "ЯКУТИЯ"</airline>
+		<en_airline>Yakutiya </en_airline>
+		<ru_airline>АО "АВИАКОМПАНИЯ "ЯКУТИЯ"</ru_airline>
+		<ru_aircraft>Б737-7</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 15:30</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 13:42</dt_dept_fact>
+		<flight_id>Р0000044347</flight_id>
+		<airline_id>4208</airline_id>
+		<fact>09.08 15:31</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT459</flight>
+		<ru_flight_number>ЮТ-459</ru_flight_number>
+		<en_flight_number>UT-459</en_flight_number>
+		<plan>09.08 15:35</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 15:15</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 13:20</dt_dept_fact>
+		<flight_id>Р0000044352</flight_id>
+		<airline_id>143</airline_id>
+		<fact>09.08 15:10</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6201</flight>
+		<ru_flight_number>У6-201</ru_flight_number>
+		<en_flight_number>U6-201</en_flight_number>
+		<plan>09.08 15:40</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 15:35</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 14:45</dt_dept_fact>
+		<flight_id>Р0000044317</flight_id>
+		<airline_id>42</airline_id>
+		<fact>09.08 15:33</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>WZ283</flight>
+		<ru_flight_number>ИН-283</ru_flight_number>
+		<en_flight_number>WZ-283</en_flight_number>
+		<plan>09.08 16:10</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ОТМЕНЕН</status>
+		<airline>Ред Вингс АО</airline>
+		<en_airline>Red wings</en_airline>
+		<ru_airline>Ред Вингс АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>1</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044385</flight_id>
+		<airline_id>7019</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5905</flight>
+		<ru_flight_number>ФВ-5905</ru_flight_number>
+		<en_flight_number>FV-5905</en_flight_number>
+		<plan>09.08 16:40</plan>
+		<airport>Казань (Основной)</airport>
+		<ru_airport>Казань (Основной)</ru_airport>
+		<en_airport>Kazan</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 16:50</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 14:28</DelayedTo>
+		<dt_dept_fact>09.08 14:58</dt_dept_fact>
+		<flight_id>Р0000044368</flight_id>
+		<airline_id>127</airline_id>
+		<fact>09.08 16:56</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6685</flight>
+		<ru_flight_number>У6-685</ru_flight_number>
+		<en_flight_number>U6-685</en_flight_number>
+		<plan>09.08 16:45</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ОТМЕНЕН</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>1</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044373</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1142</flight>
+		<ru_flight_number>СУ-1142</ru_flight_number>
+		<en_flight_number>SU-1142</en_flight_number>
+		<plan>09.08 17:20</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 17:05</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 15:09</dt_dept_fact>
+		<flight_id>Р0000044339</flight_id>
+		<airline_id>275</airline_id>
+		<fact>09.08 17:02</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP149</flight>
+		<ru_flight_number>ДР-149</ru_flight_number>
+		<en_flight_number>DP-149</en_flight_number>
+		<plan>09.08 17:25</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 17:20</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 15:27</dt_dept_fact>
+		<flight_id>Р0000044270</flight_id>
+		<airline_id>9279</airline_id>
+		<fact>09.08 17:16</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV6205</flight>
+		<ru_flight_number>ФВ-6205</ru_flight_number>
+		<en_flight_number>FV-6205</en_flight_number>
+		<plan>09.08 17:50</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 17:40</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 15:03</DelayedTo>
+		<dt_dept_fact>09.08 15:08</dt_dept_fact>
+		<flight_id>Р0000044356</flight_id>
+		<airline_id>127</airline_id>
+		<fact>09.08 17:45</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6157</flight>
+		<ru_flight_number>У6-157</ru_flight_number>
+		<en_flight_number>U6-157</en_flight_number>
+		<plan>09.08 17:55</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 18:51</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 16:10</DelayedTo>
+		<dt_dept_fact>09.08 16:41</dt_dept_fact>
+		<flight_id>Р0000044297</flight_id>
+		<airline_id>42</airline_id>
+		<fact>09.08 18:28</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5919</flight>
+		<ru_flight_number>ФВ-5919</ru_flight_number>
+		<en_flight_number>FV-5919</en_flight_number>
+		<plan>09.08 18:35</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 18:35</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 15:58</dt_dept_fact>
+		<flight_id>Р0000044369</flight_id>
+		<airline_id>127</airline_id>
+		<fact>09.08 18:33</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>N4571</flight>
+		<ru_flight_number>КЛ-571</ru_flight_number>
+		<en_flight_number>N4-571</en_flight_number>
+		<plan>09.08 18:45</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Северный Ветер ООО</airline>
+		<en_airline>b66ea8a8-5bfa-11e2-8b35-441ea14957ee</en_airline>
+		<ru_airline>Северный Ветер ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 16:25</dt_dept_fact>
+		<flight_id>Р0000045127</flight_id>
+		<airline_id>6054</airline_id>
+		<fact>09.08 18:37</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV6203</flight>
+		<ru_flight_number>ФВ-6203</ru_flight_number>
+		<en_flight_number>FV-6203</en_flight_number>
+		<plan>09.08 18:50</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>А-319</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 18:37</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 16:02</dt_dept_fact>
+		<flight_id>Р0000044328</flight_id>
+		<airline_id>127</airline_id>
+		<fact>09.08 18:41</fact>
+		<sched>DOM</sched>
+		<codeschare>SU6203</codeschare>
+	</block>
+	<block>
+		<flight>5N105</flight>
+		<ru_flight_number>5Н-105</ru_flight_number>
+		<en_flight_number>5N-105</en_flight_number>
+		<plan>09.08 19:30</plan>
+		<airport>Архангельск (Талаги)</airport>
+		<ru_airport>Архангельск (Талаги)</ru_airport>
+		<en_airport>Arkhangelsk</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Нордавиа - РА А/К ЗАО</airline>
+		<en_airline>Arkhangelsk airlines </en_airline>
+		<ru_airline>Нордавиа - РА А/К ЗАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 19:30</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 16:16</dt_dept_fact>
+		<flight_id>Р0000044378</flight_id>
+		<airline_id>1002</airline_id>
+		<fact>09.08 19:20</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT515</flight>
+		<ru_flight_number>ЮТ-515</ru_flight_number>
+		<en_flight_number>UT-515</en_flight_number>
+		<plan>09.08 19:30</plan>
+		<airport>Тюмень (Рощино)</airport>
+		<ru_airport>Тюмень (Рощино)</ru_airport>
+		<en_airport>Tyumen</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 19:15</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 17:52</dt_dept_fact>
+		<flight_id>Р0000044267</flight_id>
+		<airline_id>143</airline_id>
+		<fact>09.08 19:04</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6443</flight>
+		<ru_flight_number>У6-443</ru_flight_number>
+		<en_flight_number>U6-443</en_flight_number>
+		<plan>09.08 19:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 20:44</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 18:13</DelayedTo>
+		<dt_dept_fact>09.08 18:55</dt_dept_fact>
+		<flight_id>Р0000044321</flight_id>
+		<airline_id>42</airline_id>
+		<fact>09.08 20:43</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT505</flight>
+		<ru_flight_number>ЮТ-505</ru_flight_number>
+		<en_flight_number>UT-505</en_flight_number>
+		<plan>09.08 20:30</plan>
+		<airport>Сыктывкар</airport>
+		<ru_airport>Сыктывкар</ru_airport>
+		<en_airport>Syktyvkar</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 20:51</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 17:31</dt_dept_fact>
+		<flight_id>Р0000044288</flight_id>
+		<airline_id>143</airline_id>
+		<fact>09.08 20:24</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1572</flight>
+		<ru_flight_number>СУ-1572</ru_flight_number>
+		<en_flight_number>SU-1572</en_flight_number>
+		<plan>09.08 20:40</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 20:11</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 18:16</dt_dept_fact>
+		<flight_id>Р0000044345</flight_id>
+		<airline_id>275</airline_id>
+		<fact>09.08 20:11</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT461</flight>
+		<ru_flight_number>ЮТ-461</ru_flight_number>
+		<en_flight_number>UT-461</en_flight_number>
+		<plan>09.08 20:45</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-4</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 20:50</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 18:40</dt_dept_fact>
+		<flight_id>Р0000044350</flight_id>
+		<airline_id>143</airline_id>
+		<fact>09.08 20:31</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72107</flight>
+		<ru_flight_number>С7-2107</ru_flight_number>
+		<en_flight_number>S7-2107</en_flight_number>
+		<plan>09.08 21:10</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 20:50</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 18:57</dt_dept_fact>
+		<flight_id>Р0000044282</flight_id>
+		<airline_id>105</airline_id>
+		<fact>09.08 20:46</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5917</flight>
+		<ru_flight_number>ФВ-5917</ru_flight_number>
+		<en_flight_number>FV-5917</en_flight_number>
+		<plan>09.08 21:35</plan>
+		<airport>Пермь (Большое Савино)</airport>
+		<ru_airport>Пермь (Большое Савино)</ru_airport>
+		<en_airport>Perm</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 22:30</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>09.08 19:30</DelayedTo>
+		<dt_dept_fact>09.08 21:51</dt_dept_fact>
+		<flight_id>Р0000044372</flight_id>
+		<airline_id>127</airline_id>
+		<fact>09.08 22:32</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP145</flight>
+		<ru_flight_number>ДР-145</ru_flight_number>
+		<en_flight_number>DP-145</en_flight_number>
+		<plan>09.08 22:15</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 22:40</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 20:30</dt_dept_fact>
+		<flight_id>Р0000044274</flight_id>
+		<airline_id>9279</airline_id>
+		<fact>09.08 22:19</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT1457</flight>
+		<ru_flight_number>ЮТ-1457</ru_flight_number>
+		<en_flight_number>UT-1457</en_flight_number>
+		<plan>09.08 22:50</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-4</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 22:57</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 20:57</dt_dept_fact>
+		<flight_id>Р0000044349</flight_id>
+		<airline_id>143</airline_id>
+		<fact>09.08 22:51</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP384</flight>
+		<ru_flight_number>ДР-384</ru_flight_number>
+		<en_flight_number>DP-384</en_flight_number>
+		<plan>09.08 23:15</plan>
+		<airport>Казань (Основной)</airport>
+		<ru_airport>Казань (Основной)</ru_airport>
+		<en_airport>Kazan</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 23:26</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 20:51</dt_dept_fact>
+		<flight_id>Р0000044276</flight_id>
+		<airline_id>9279</airline_id>
+		<fact>09.08 22:55</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>WZ285</flight>
+		<ru_flight_number>ИН-285</ru_flight_number>
+		<en_flight_number>WZ-285</en_flight_number>
+		<plan>09.08 23:20</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ОТМЕНЕН</status>
+		<airline>Ред Вингс АО</airline>
+		<en_airline>Red wings</en_airline>
+		<ru_airline>Ред Вингс АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>1</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044383</flight_id>
+		<airline_id>7019</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP147</flight>
+		<ru_flight_number>ДР-147</ru_flight_number>
+		<en_flight_number>DP-147</en_flight_number>
+		<plan>09.08 23:50</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 23:54</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 21:44</dt_dept_fact>
+		<flight_id>Р0000044277</flight_id>
+		<airline_id>9279</airline_id>
+		<fact>09.08 23:34</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1144</flight>
+		<ru_flight_number>СУ-1144</ru_flight_number>
+		<en_flight_number>SU-1144</en_flight_number>
+		<plan>10.08 00:15</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>09.08 23:52</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 21:59</dt_dept_fact>
+		<flight_id>Р0000044566</flight_id>
+		<airline_id>275</airline_id>
+		<fact>09.08 23:53</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U689</flight>
+		<ru_flight_number>У6-89</ru_flight_number>
+		<en_flight_number>U6-89</en_flight_number>
+		<plan>10.08 01:00</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 00:55</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>09.08 21:55</dt_dept_fact>
+		<flight_id>Р0000044563</flight_id>
+		<airline_id>42</airline_id>
+		<fact>10.08 00:36</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5517</flight>
+		<ru_flight_number>ФВ-5517</ru_flight_number>
+		<en_flight_number>FV-5517</en_flight_number>
+		<plan>10.08 04:55</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 04:34</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 02:43</dt_dept_fact>
+		<flight_id>Р0000044547</flight_id>
+		<airline_id>127</airline_id>
+		<fact>10.08 04:43</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT457</flight>
+		<ru_flight_number>ЮТ-457</ru_flight_number>
+		<en_flight_number>UT-457</en_flight_number>
+		<plan>10.08 05:30</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-4</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 05:46</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 03:26</dt_dept_fact>
+		<flight_id>Р0000044535</flight_id>
+		<airline_id>143</airline_id>
+		<fact>10.08 05:19</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6301</flight>
+		<ru_flight_number>У6-301</ru_flight_number>
+		<en_flight_number>U6-301</en_flight_number>
+		<plan>10.08 07:10</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-319</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 07:26</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 06:16</dt_dept_fact>
+		<flight_id>Р0000044518</flight_id>
+		<airline_id>42</airline_id>
+		<fact>10.08 07:03</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP390</flight>
+		<ru_flight_number>ДР-390</ru_flight_number>
+		<en_flight_number>DP-390</en_flight_number>
+		<plan>10.08 07:30</plan>
+		<airport>Пермь (Большое Савино)</airport>
+		<ru_airport>Пермь (Большое Савино)</ru_airport>
+		<en_airport>Perm</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 07:42</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 06:42</dt_dept_fact>
+		<flight_id>Р0000044476</flight_id>
+		<airline_id>9279</airline_id>
+		<fact>10.08 07:22</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>ZF339</flight>
+		<ru_flight_number>КЮ-339</ru_flight_number>
+		<en_flight_number>ZF-339</en_flight_number>
+		<plan>10.08 07:40</plan>
+		<airport>Красноярск </airport>
+		<ru_airport>Красноярск </ru_airport>
+		<en_airport>Krasnoyarsk</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>АЗУР эйр ООО</airline>
+		<en_airline>AZUR air Limited Liability Company</en_airline>
+		<ru_airline>АЗУР эйр ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 07:55</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 06:05</dt_dept_fact>
+		<flight_id>Р0000044539</flight_id>
+		<airline_id>6225</airline_id>
+		<fact>10.08 07:06</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT501</flight>
+		<ru_flight_number>ЮТ-501</ru_flight_number>
+		<en_flight_number>UT-501</en_flight_number>
+		<plan>10.08 08:30</plan>
+		<airport>Сургут</airport>
+		<ru_airport>Сургут</ru_airport>
+		<en_airport>Surgut</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 08:30</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 06:15</dt_dept_fact>
+		<flight_id>Р0000044459</flight_id>
+		<airline_id>143</airline_id>
+		<fact>10.08 08:10</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP400</flight>
+		<ru_flight_number>ДР-400</ru_flight_number>
+		<en_flight_number>DP-400</en_flight_number>
+		<plan>10.08 08:40</plan>
+		<airport>Новосибирск (ТЛЧ)</airport>
+		<ru_airport>Новосибирск (ТЛЧ)</ru_airport>
+		<en_airport>Novosibirsk</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 08:58</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 08:34</dt_dept_fact>
+		<flight_id>Р0000044462</flight_id>
+		<airline_id>9279</airline_id>
+		<fact>10.08 08:54</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1146</flight>
+		<ru_flight_number>СУ-1146</ru_flight_number>
+		<en_flight_number>SU-1146</en_flight_number>
+		<plan>10.08 08:50</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 08:31</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 06:36</dt_dept_fact>
+		<flight_id>Р0000044528</flight_id>
+		<airline_id>275</airline_id>
+		<fact>10.08 08:32</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U61315</flight>
+		<ru_flight_number>У6-1315</ru_flight_number>
+		<en_flight_number>U6-1315</en_flight_number>
+		<plan>10.08 09:15</plan>
+		<airport>Москва (Жуковский)</airport>
+		<ru_airport>Москва (Жуковский)</ru_airport>
+		<en_airport>Moscow (Zhukov)</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 08:56</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 07:05</dt_dept_fact>
+		<flight_id>Р0000044474</flight_id>
+		<airline_id>42</airline_id>
+		<fact>10.08 08:48</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP394</flight>
+		<ru_flight_number>ДР-394</ru_flight_number>
+		<en_flight_number>DP-394</en_flight_number>
+		<plan>10.08 09:30</plan>
+		<airport>Челябинск (Баландино)</airport>
+		<ru_airport>Челябинск (Баландино)</ru_airport>
+		<en_airport>Chelyabinsk</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 09:06</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 08:17</dt_dept_fact>
+		<flight_id>Р0000044460</flight_id>
+		<airline_id>9279</airline_id>
+		<fact>10.08 09:06</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5923</flight>
+		<ru_flight_number>ФВ-5923</ru_flight_number>
+		<en_flight_number>FV-5923</en_flight_number>
+		<plan>10.08 09:35</plan>
+		<airport>Самара (Курумоч)</airport>
+		<ru_airport>Самара (Курумоч)</ru_airport>
+		<en_airport>Samara</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 09:27</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>10.08 08:32</DelayedTo>
+		<dt_dept_fact>10.08 08:36</dt_dept_fact>
+		<flight_id>Р0000044548</flight_id>
+		<airline_id>127</airline_id>
+		<fact>10.08 09:30</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT392</flight>
+		<ru_flight_number>ЮТ-392</ru_flight_number>
+		<en_flight_number>UT-392</en_flight_number>
+		<plan>10.08 09:35</plan>
+		<airport>Уфа</airport>
+		<ru_airport>Уфа</ru_airport>
+		<en_airport>Ufa</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 09:11</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 08:38</dt_dept_fact>
+		<flight_id>Р0000044499</flight_id>
+		<airline_id>143</airline_id>
+		<fact>10.08 09:09</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72101</flight>
+		<ru_flight_number>С7-2101</ru_flight_number>
+		<en_flight_number>S7-2101</en_flight_number>
+		<plan>10.08 09:50</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 09:41</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 07:50</dt_dept_fact>
+		<flight_id>Р0000044481</flight_id>
+		<airline_id>105</airline_id>
+		<fact>10.08 09:38</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6685</flight>
+		<ru_flight_number>У6-685</ru_flight_number>
+		<en_flight_number>U6-685</en_flight_number>
+		<plan>10.08 10:05</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 09:55</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 08:08</dt_dept_fact>
+		<flight_id>Р0000044559</flight_id>
+		<airline_id>42</airline_id>
+		<fact>10.08 09:57</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1546</flight>
+		<ru_flight_number>СУ-1546</ru_flight_number>
+		<en_flight_number>SU-1546</en_flight_number>
+		<plan>10.08 10:35</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 10:23</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 08:28</dt_dept_fact>
+		<flight_id>Р0000044532</flight_id>
+		<airline_id>275</airline_id>
+		<fact>10.08 10:27</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72103</flight>
+		<ru_flight_number>С7-2103</ru_flight_number>
+		<en_flight_number>S7-2103</en_flight_number>
+		<plan>10.08 10:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПРИБЫЛ</status>
+		<status_tablo>ПРИБЫЛ</status_tablo>
+		<ru_status>ПРИБЫЛ</ru_status>
+		<en_status>ARRIVED</en_status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 10:51</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 08:55</dt_dept_fact>
+		<flight_id>Р0000044470</flight_id>
+		<airline_id>105</airline_id>
+		<fact>10.08 10:47</fact>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>N4181</flight>
+		<ru_flight_number>КЛ-181</ru_flight_number>
+		<en_flight_number>N4-181</en_flight_number>
+		<plan>10.08 10:55</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>В ПУТИ</status>
+		<status_tablo>В ПУТИ</status_tablo>
+		<airline>Северный Ветер ООО</airline>
+		<en_airline>b66ea8a8-5bfa-11e2-8b35-441ea14957ee</en_airline>
+		<ru_airline>Северный Ветер ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 11:32</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>10.08 09:19</DelayedTo>
+		<dt_dept_fact>10.08 09:32</dt_dept_fact>
+		<flight_id>Р0000044571</flight_id>
+		<airline_id>6054</airline_id>
+		<sched>DOM</sched>
+		<codeschare>EO181,EO181,EO181</codeschare>
+	</block>
+	<block>
+		<flight>U6143</flight>
+		<ru_flight_number>У6-143</ru_flight_number>
+		<en_flight_number>U6-143</en_flight_number>
+		<plan>10.08 11:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ЗАДЕРЖАН</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 12:20</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>10.08 10:50</DelayedTo>
+		<flight_id>Р0000044487</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72111</flight>
+		<ru_flight_number>С7-2111</ru_flight_number>
+		<en_flight_number>S7-2111</en_flight_number>
+		<plan>10.08 11:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>В ПУТИ</status>
+		<status_tablo>В ПУТИ</status_tablo>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 11:27</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 09:38</dt_dept_fact>
+		<flight_id>Р0000044504</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV6201</flight>
+		<ru_flight_number>ФВ-6201</ru_flight_number>
+		<en_flight_number>FV-6201</en_flight_number>
+		<plan>10.08 11:55</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>В ПУТИ</status>
+		<status_tablo>В ПУТИ</status_tablo>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>А-319</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 11:35</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 08:57</dt_dept_fact>
+		<flight_id>Р0000044513</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare>SU6201</codeschare>
+	</block>
+	<block>
+		<flight>S75123</flight>
+		<ru_flight_number>С7-5123</ru_flight_number>
+		<en_flight_number>S7-5123</en_flight_number>
+		<plan>10.08 12:25</plan>
+		<airport>Новосибирск (ТЛЧ)</airport>
+		<ru_airport>Новосибирск (ТЛЧ)</ru_airport>
+		<en_airport>Novosibirsk</en_airport>
+		<status>В ПУТИ</status>
+		<status_tablo>В ПУТИ</status_tablo>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 12:14</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 11:53</dt_dept_fact>
+		<flight_id>Р0000044483</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6345</flight>
+		<ru_flight_number>У6-345</ru_flight_number>
+		<en_flight_number>U6-345</en_flight_number>
+		<plan>10.08 12:30</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>В ПУТИ</status>
+		<status_tablo>В ПУТИ</status_tablo>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-319</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 12:44</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 09:44</dt_dept_fact>
+		<flight_id>Р0000044491</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5921</flight>
+		<ru_flight_number>ФВ-5921</ru_flight_number>
+		<en_flight_number>FV-5921</en_flight_number>
+		<plan>10.08 12:55</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>В ПУТИ</status>
+		<status_tablo>В ПУТИ</status_tablo>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 13:15</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>1</isDelayed>
+		<DelayedTo>10.08 12:16</DelayedTo>
+		<dt_dept_fact>10.08 12:26</dt_dept_fact>
+		<flight_id>Р0000044551</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72109</flight>
+		<ru_flight_number>С7-2109</ru_flight_number>
+		<en_flight_number>S7-2109</en_flight_number>
+		<plan>10.08 12:55</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>В ПУТИ</status>
+		<status_tablo>В ПУТИ</status_tablo>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 13:05</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 10:45</dt_dept_fact>
+		<flight_id>Р0000044510</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5557</flight>
+		<ru_flight_number>ФВ-5557</ru_flight_number>
+		<en_flight_number>FV-5557</en_flight_number>
+		<plan>10.08 13:20</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>В ПУТИ</status>
+		<status_tablo>В ПУТИ</status_tablo>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<EAT>10.08 13:31</EAT>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<dt_dept_fact>10.08 10:36</dt_dept_fact>
+		<flight_id>Р0000044552</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>6R1601</flight>
+		<ru_flight_number>ЯМ-1601</ru_flight_number>
+		<en_flight_number>6R-1601</en_flight_number>
+		<plan>10.08 14:00</plan>
+		<airport>Ижевск</airport>
+		<ru_airport>Ижевск</ru_airport>
+		<en_airport>Izhevsk</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>АЛРОСА А/К АО</airline>
+		<en_airline>Diamonds of rossia-sakha</en_airline>
+		<ru_airline>АЛРОСА А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044522</flight_id>
+		<airline_id>78</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP307</flight>
+		<ru_flight_number>ДР-307</ru_flight_number>
+		<en_flight_number>DP-307</en_flight_number>
+		<plan>10.08 14:15</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044479</flight_id>
+		<airline_id>9279</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT1015</flight>
+		<ru_flight_number>ЮТ-1015</ru_flight_number>
+		<en_flight_number>UT-1015</en_flight_number>
+		<plan>10.08 14:40</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044498</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>6A311</flight>
+		<ru_flight_number>6A-311</ru_flight_number>
+		<en_flight_number>6A-311</en_flight_number>
+		<plan>10.08 14:50</plan>
+		<airport>Ереван (Звартноц)</airport>
+		<ru_airport>Ереван (Звартноц)</ru_airport>
+		<en_airport>Erevan</en_airport>
+		<status>ОТМЕНЕН</status>
+		<airline>Армения Эйрвейз</airline>
+		<en_airline>Armenia Airways</en_airline>
+		<ru_airline>Армения Эйрвейз</ru_airline>
+		<ru_aircraft>BAE 146-300</ru_aircraft>
+		<en_aircraft>BAE 146-300</en_aircraft>
+		<gate>1</gate>
+		<isCanceled>1</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044579</flight_id>
+		<sched>INT</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72105</flight>
+		<ru_flight_number>С7-2105</ru_flight_number>
+		<en_flight_number>S7-2105</en_flight_number>
+		<plan>10.08 15:25</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044525</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare>BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805</codeschare>
+	</block>
+	<block>
+		<flight>UT459</flight>
+		<ru_flight_number>ЮТ-459</ru_flight_number>
+		<en_flight_number>UT-459</en_flight_number>
+		<plan>10.08 15:35</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044544</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>ZF333</flight>
+		<ru_flight_number>КЮ-333</ru_flight_number>
+		<en_flight_number>ZF-333</en_flight_number>
+		<plan>10.08 15:50</plan>
+		<airport>Самара (Курумоч)</airport>
+		<ru_airport>Самара (Курумоч)</ru_airport>
+		<en_airport>Samara</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>АЗУР эйр ООО</airline>
+		<en_airline>AZUR air Limited Liability Company</en_airline>
+		<ru_airline>АЗУР эйр ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044538</flight_id>
+		<airline_id>6225</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV6205</flight>
+		<ru_flight_number>ФВ-6205</ru_flight_number>
+		<en_flight_number>FV-6205</en_flight_number>
+		<plan>10.08 15:55</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>А-319</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044569</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>WZ283</flight>
+		<ru_flight_number>ИН-283</ru_flight_number>
+		<en_flight_number>WZ-283</en_flight_number>
+		<plan>10.08 16:10</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ОТМЕНЕН</status>
+		<airline>Ред Вингс АО</airline>
+		<en_airline>Red wings</en_airline>
+		<ru_airline>Ред Вингс АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>1</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044577</flight_id>
+		<airline_id>7019</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6201</flight>
+		<ru_flight_number>У6-201</ru_flight_number>
+		<en_flight_number>U6-201</en_flight_number>
+		<plan>10.08 16:40</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044464</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6491</flight>
+		<ru_flight_number>У6-491</ru_flight_number>
+		<en_flight_number>U6-491</en_flight_number>
+		<plan>10.08 16:45</plan>
+		<airport>Нижний Новгород (Стригино)</airport>
+		<ru_airport>Нижний Новгород (Стригино)</ru_airport>
+		<en_airport>Nizhniy Novgorod</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044560</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP149</flight>
+		<ru_flight_number>ДР-149</ru_flight_number>
+		<en_flight_number>DP-149</en_flight_number>
+		<plan>10.08 16:50</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044495</flight_id>
+		<airline_id>9279</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1142</flight>
+		<ru_flight_number>СУ-1142</ru_flight_number>
+		<en_flight_number>SU-1142</en_flight_number>
+		<plan>10.08 17:20</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044527</flight_id>
+		<airline_id>275</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6157</flight>
+		<ru_flight_number>У6-157</ru_flight_number>
+		<en_flight_number>U6-157</en_flight_number>
+		<plan>10.08 17:55</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044485</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>5N111</flight>
+		<ru_flight_number>5Н-111</ru_flight_number>
+		<en_flight_number>5N-111</en_flight_number>
+		<plan>10.08 18:00</plan>
+		<airport>Мурманск (Основной)</airport>
+		<ru_airport>Мурманск (Основной)</ru_airport>
+		<en_airport>Murmansk</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Нордавиа - РА А/К ЗАО</airline>
+		<en_airline>Arkhangelsk airlines </en_airline>
+		<ru_airline>Нордавиа - РА А/К ЗАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044564</flight_id>
+		<airline_id>1002</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>5N249</flight>
+		<ru_flight_number>5Н-249</ru_flight_number>
+		<en_flight_number>5N-249</en_flight_number>
+		<plan>10.08 18:15</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Нордавиа - РА А/К ЗАО</airline>
+		<en_airline>Arkhangelsk airlines </en_airline>
+		<ru_airline>Нордавиа - РА А/К ЗАО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044506</flight_id>
+		<airline_id>1002</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV6203</flight>
+		<ru_flight_number>ФВ-6203</ru_flight_number>
+		<en_flight_number>FV-6203</en_flight_number>
+		<plan>10.08 18:50</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>А-319</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044520</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare>SU6203</codeschare>
+	</block>
+	<block>
+		<flight>Y7325</flight>
+		<ru_flight_number>ТИ-325</ru_flight_number>
+		<en_flight_number>Y7-325</en_flight_number>
+		<plan>10.08 19:05</plan>
+		<airport>Красноярск </airport>
+		<ru_airport>Красноярск </ru_airport>
+		<en_airport>Krasnoyarsk</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>НордСтар АК АО</airline>
+		<en_airline>Aviata</en_airline>
+		<ru_airline>НордСтар АК АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044502</flight_id>
+		<airline_id>4211</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>Y71051</flight>
+		<ru_flight_number>ТИ-1051</ru_flight_number>
+		<en_flight_number>Y7-1051</en_flight_number>
+		<plan>10.08 19:15</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>НордСтар АК АО</airline>
+		<en_airline>Aviata</en_airline>
+		<ru_airline>НордСтар АК АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044488</flight_id>
+		<airline_id>4211</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5915</flight>
+		<ru_flight_number>ФВ-5915</ru_flight_number>
+		<en_flight_number>FV-5915</en_flight_number>
+		<plan>10.08 19:20</plan>
+		<airport>Нижний Новгород (Стригино)</airport>
+		<ru_airport>Нижний Новгород (Стригино)</ru_airport>
+		<en_airport>Nizhniy Novgorod</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044555</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT503</flight>
+		<ru_flight_number>ЮТ-503</ru_flight_number>
+		<en_flight_number>UT-503</en_flight_number>
+		<plan>10.08 19:30</plan>
+		<airport>Нижневартовск</airport>
+		<ru_airport>Нижневартовск</ru_airport>
+		<en_airport>Nizhnevartovsk</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044456</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6443</flight>
+		<ru_flight_number>У6-443</ru_flight_number>
+		<en_flight_number>U6-443</en_flight_number>
+		<plan>10.08 19:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044515</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1542</flight>
+		<ru_flight_number>СУ-1542</ru_flight_number>
+		<en_flight_number>SU-1542</en_flight_number>
+		<plan>10.08 20:40</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044531</flight_id>
+		<airline_id>275</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT461</flight>
+		<ru_flight_number>ЮТ-461</ru_flight_number>
+		<en_flight_number>UT-461</en_flight_number>
+		<plan>10.08 20:45</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-4</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044542</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>IO233</flight>
+		<ru_flight_number>РД-233</ru_flight_number>
+		<en_flight_number>IO-233</en_flight_number>
+		<plan>10.08 21:00</plan>
+		<airport>Барнаул (Михайловка)</airport>
+		<ru_airport>ИРКУТСК Барнаул (Михайловка)</ru_airport>
+		<en_airport>IRKUTSK Barnaul</en_airport>
+		<airports>
+			<item en_airport_1="IRKUTSK" ru_airport_1="ИРКУТСК" airport_1="ИРКУТСК"/>
+		</airports>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ИрАэро А/К АО</airline>
+		<en_airline>Aircompany irair</en_airline>
+		<ru_airline>ИрАэро А/К АО</ru_airline>
+		<ru_aircraft>SSJ100-9</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044511</flight_id>
+		<airline_id>4173</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72107</flight>
+		<ru_flight_number>С7-2107</ru_flight_number>
+		<en_flight_number>S7-2107</en_flight_number>
+		<plan>10.08 21:10</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044472</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP147</flight>
+		<ru_flight_number>ДР-147</ru_flight_number>
+		<en_flight_number>DP-147</en_flight_number>
+		<plan>10.08 21:45</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044467</flight_id>
+		<airline_id>9279</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>N4687</flight>
+		<ru_flight_number>КЛ-687</ru_flight_number>
+		<en_flight_number>N4-687</en_flight_number>
+		<plan>10.08 21:50</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Северный Ветер ООО</airline>
+		<en_airline>b66ea8a8-5bfa-11e2-8b35-441ea14957ee</en_airline>
+		<ru_airline>Северный Ветер ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044519</flight_id>
+		<airline_id>6054</airline_id>
+		<sched>DOM</sched>
+		<codeschare>EO687</codeschare>
+	</block>
+	<block>
+		<flight>FV5927</flight>
+		<ru_flight_number>ФВ-5927</ru_flight_number>
+		<en_flight_number>FV-5927</en_flight_number>
+		<plan>10.08 21:50</plan>
+		<airport>Уфа</airport>
+		<ru_airport>Уфа</ru_airport>
+		<en_airport>Ufa</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044572</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6179</flight>
+		<ru_flight_number>У6-179</ru_flight_number>
+		<en_flight_number>U6-179</en_flight_number>
+		<plan>10.08 22:00</plan>
+		<airport>Самара (Курумоч)</airport>
+		<ru_airport>Самара (Курумоч)</ru_airport>
+		<en_airport>Samara</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044508</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP145</flight>
+		<ru_flight_number>ДР-145</ru_flight_number>
+		<en_flight_number>DP-145</en_flight_number>
+		<plan>10.08 22:30</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044493</flight_id>
+		<airline_id>9279</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5933</flight>
+		<ru_flight_number>ФВ-5933</ru_flight_number>
+		<en_flight_number>FV-5933</en_flight_number>
+		<plan>10.08 23:05</plan>
+		<airport>Омск</airport>
+		<ru_airport>Омск</ru_airport>
+		<en_airport>Omsk</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044557</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT505</flight>
+		<ru_flight_number>ЮТ-505</ru_flight_number>
+		<en_flight_number>UT-505</en_flight_number>
+		<plan>10.08 23:10</plan>
+		<airport>Сыктывкар</airport>
+		<ru_airport>Сыктывкар</ru_airport>
+		<en_airport>Syktyvkar</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044536</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>WZ285</flight>
+		<ru_flight_number>ИН-285</ru_flight_number>
+		<en_flight_number>WZ-285</en_flight_number>
+		<plan>10.08 23:20</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ОТМЕНЕН</status>
+		<airline>Ред Вингс АО</airline>
+		<en_airline>Red wings</en_airline>
+		<ru_airline>Ред Вингс АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>1</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044575</flight_id>
+		<airline_id>7019</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP392</flight>
+		<ru_flight_number>ДР-392</ru_flight_number>
+		<en_flight_number>DP-392</en_flight_number>
+		<plan>10.08 23:20</plan>
+		<airport>Уфа</airport>
+		<ru_airport>Уфа</ru_airport>
+		<en_airport>Ufa</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044492</flight_id>
+		<airline_id>9279</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1144</flight>
+		<ru_flight_number>СУ-1144</ru_flight_number>
+		<en_flight_number>SU-1144</en_flight_number>
+		<plan>11.08 00:15</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044726</flight_id>
+		<airline_id>275</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U689</flight>
+		<ru_flight_number>У6-89</ru_flight_number>
+		<en_flight_number>U6-89</en_flight_number>
+		<plan>11.08 01:00</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044705</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5919</flight>
+		<ru_flight_number>ФВ-5919</ru_flight_number>
+		<en_flight_number>FV-5919</en_flight_number>
+		<plan>11.08 04:40</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044706</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5515</flight>
+		<ru_flight_number>ФВ-5515</ru_flight_number>
+		<en_flight_number>FV-5515</en_flight_number>
+		<plan>11.08 05:30</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044709</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT457</flight>
+		<ru_flight_number>ЮТ-457</ru_flight_number>
+		<en_flight_number>UT-457</en_flight_number>
+		<plan>11.08 05:30</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044693</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP303</flight>
+		<ru_flight_number>ДР-303</ru_flight_number>
+		<en_flight_number>DP-303</en_flight_number>
+		<plan>11.08 05:35</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044631</flight_id>
+		<airline_id>9279</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>ZF337</flight>
+		<ru_flight_number>КЮ-337</ru_flight_number>
+		<en_flight_number>ZF-337</en_flight_number>
+		<plan>11.08 06:55</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>АЗУР эйр ООО</airline>
+		<en_airline>AZUR air Limited Liability Company</en_airline>
+		<ru_airline>АЗУР эйр ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044694</flight_id>
+		<airline_id>6225</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP390</flight>
+		<ru_flight_number>ДР-390</ru_flight_number>
+		<en_flight_number>DP-390</en_flight_number>
+		<plan>11.08 07:30</plan>
+		<airport>Пермь (Большое Савино)</airport>
+		<ru_airport>Пермь (Большое Савино)</ru_airport>
+		<en_airport>Perm</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044655</flight_id>
+		<airline_id>9279</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6201</flight>
+		<ru_flight_number>У6-201</ru_flight_number>
+		<en_flight_number>U6-201</en_flight_number>
+		<plan>11.08 07:55</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044640</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>WZ281</flight>
+		<ru_flight_number>ИН-281</ru_flight_number>
+		<en_flight_number>WZ-281</en_flight_number>
+		<plan>11.08 08:15</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ОТМЕНЕН</status>
+		<airline>Ред Вингс АО</airline>
+		<en_airline>Red wings</en_airline>
+		<ru_airline>Ред Вингс АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>1</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044747</flight_id>
+		<airline_id>7019</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>R3449</flight>
+		<ru_flight_number>ЯК-449</ru_flight_number>
+		<en_flight_number>R3-449</en_flight_number>
+		<plan>11.08 08:15</plan>
+		<airport>Красноярск </airport>
+		<ru_airport>Якутск Красноярск </ru_airport>
+		<en_airport>Yakutsk Krasnoyarsk</en_airport>
+		<airports>
+			<item en_airport_1="Yakutsk" ru_airport_1="Якутск" airport_1="Якутск"/>
+		</airports>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>АО "АВИАКОМПАНИЯ "ЯКУТИЯ"</airline>
+		<en_airline>Yakutiya </en_airline>
+		<ru_airline>АО "АВИАКОМПАНИЯ "ЯКУТИЯ"</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044653</flight_id>
+		<airline_id>4208</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5931</flight>
+		<ru_flight_number>ФВ-5931</ru_flight_number>
+		<en_flight_number>FV-5931</en_flight_number>
+		<plan>11.08 08:30</plan>
+		<airport>Красноярск </airport>
+		<ru_airport>Красноярск </ru_airport>
+		<en_airport>Krasnoyarsk</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044710</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT501</flight>
+		<ru_flight_number>ЮТ-501</ru_flight_number>
+		<en_flight_number>UT-501</en_flight_number>
+		<plan>11.08 08:30</plan>
+		<airport>Сургут</airport>
+		<ru_airport>Сургут</ru_airport>
+		<en_airport>Surgut</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044626</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1146</flight>
+		<ru_flight_number>СУ-1146</ru_flight_number>
+		<en_flight_number>SU-1146</en_flight_number>
+		<plan>11.08 08:50</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044684</flight_id>
+		<airline_id>275</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U61315</flight>
+		<ru_flight_number>У6-1315</ru_flight_number>
+		<en_flight_number>U6-1315</en_flight_number>
+		<plan>11.08 09:15</plan>
+		<airport>Москва (Жуковский)</airport>
+		<ru_airport>Москва (Жуковский)</ru_airport>
+		<en_airport>Moscow (Zhukov)</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044639</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72101</flight>
+		<ru_flight_number>С7-2101</ru_flight_number>
+		<en_flight_number>S7-2101</en_flight_number>
+		<plan>11.08 09:50</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-319</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044643</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP398</flight>
+		<ru_flight_number>ДР-398</ru_flight_number>
+		<en_flight_number>DP-398</en_flight_number>
+		<plan>11.08 10:15</plan>
+		<airport>Красноярск </airport>
+		<ru_airport>Красноярск </ru_airport>
+		<en_airport>Krasnoyarsk</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044661</flight_id>
+		<airline_id>9279</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1546</flight>
+		<ru_flight_number>СУ-1546</ru_flight_number>
+		<en_flight_number>SU-1546</en_flight_number>
+		<plan>11.08 10:35</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044688</flight_id>
+		<airline_id>275</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72103</flight>
+		<ru_flight_number>С7-2103</ru_flight_number>
+		<en_flight_number>S7-2103</en_flight_number>
+		<plan>11.08 10:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044636</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>N4181</flight>
+		<ru_flight_number>КЛ-181</ru_flight_number>
+		<en_flight_number>N4-181</en_flight_number>
+		<plan>11.08 10:55</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Северный Ветер ООО</airline>
+		<en_airline>b66ea8a8-5bfa-11e2-8b35-441ea14957ee</en_airline>
+		<ru_airline>Северный Ветер ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044734</flight_id>
+		<airline_id>6054</airline_id>
+		<sched>DOM</sched>
+		<codeschare>EO181,EO181,EO181</codeschare>
+	</block>
+	<block>
+		<flight>5N107</flight>
+		<ru_flight_number>5Н-107</ru_flight_number>
+		<en_flight_number>5N-107</en_flight_number>
+		<plan>11.08 10:55</plan>
+		<airport>Сыктывкар</airport>
+		<ru_airport>Сыктывкар</ru_airport>
+		<en_airport>Syktyvkar</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Нордавиа - РА А/К ЗАО</airline>
+		<en_airline>Arkhangelsk airlines </en_airline>
+		<ru_airline>Нордавиа - РА А/К ЗАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044725</flight_id>
+		<airline_id>1002</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>Y71051</flight>
+		<ru_flight_number>ТИ-1051</ru_flight_number>
+		<en_flight_number>Y7-1051</en_flight_number>
+		<plan>11.08 11:10</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>НордСтар АК АО</airline>
+		<en_airline>Aviata</en_airline>
+		<ru_airline>НордСтар АК АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044739</flight_id>
+		<airline_id>4211</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72111</flight>
+		<ru_flight_number>С7-2111</ru_flight_number>
+		<en_flight_number>S7-2111</en_flight_number>
+		<plan>11.08 11:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044667</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6143</flight>
+		<ru_flight_number>У6-143</ru_flight_number>
+		<en_flight_number>U6-143</en_flight_number>
+		<plan>11.08 11:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044657</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV6201</flight>
+		<ru_flight_number>ФВ-6201</ru_flight_number>
+		<en_flight_number>FV-6201</en_flight_number>
+		<plan>11.08 11:55</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>А-319</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044671</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare>SU6201</codeschare>
+	</block>
+	<block>
+		<flight>FV5917</flight>
+		<ru_flight_number>ФВ-5917</ru_flight_number>
+		<en_flight_number>FV-5917</en_flight_number>
+		<plan>11.08 12:15</plan>
+		<airport>Пермь (Большое Савино)</airport>
+		<ru_airport>Пермь (Большое Савино)</ru_airport>
+		<en_airport>Perm</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044713</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>7R345</flight>
+		<ru_flight_number>РГ-345</ru_flight_number>
+		<en_flight_number>7R-345</en_flight_number>
+		<plan>11.08 12:25</plan>
+		<airport>Калуга</airport>
+		<ru_airport>Казань (Основной) Калуга</ru_airport>
+		<en_airport>Kazan Kaluga</en_airport>
+		<airports>
+			<item en_airport_1="Kazan" ru_airport_1="Казань (Основной)" airport_1="Казань (Основной)"/>
+		</airports>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>РусЛайн А/К АО</airline>
+		<en_airline>Ruslines</en_airline>
+		<ru_airline>РусЛайн А/К АО</ru_airline>
+		<ru_aircraft>Bombardier CRJ100 </ru_aircraft>
+		<en_aircraft>Bombardier CRJ100 </en_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044645</flight_id>
+		<airline_id>4214</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S75123</flight>
+		<ru_flight_number>С7-5123</ru_flight_number>
+		<en_flight_number>S7-5123</en_flight_number>
+		<plan>11.08 12:25</plan>
+		<airport>Новосибирск (ТЛЧ)</airport>
+		<ru_airport>Новосибирск (ТЛЧ)</ru_airport>
+		<en_airport>Novosibirsk</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044647</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72109</flight>
+		<ru_flight_number>С7-2109</ru_flight_number>
+		<en_flight_number>S7-2109</en_flight_number>
+		<plan>11.08 12:55</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044669</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>7R119</flight>
+		<ru_flight_number>РГ-119</ru_flight_number>
+		<en_flight_number>7R-119</en_flight_number>
+		<plan>11.08 13:00</plan>
+		<airport>Курск</airport>
+		<ru_airport>Москва / ВНК Курск</ru_airport>
+		<en_airport>Moscow / Vko Kursk</en_airport>
+		<airports>
+			<item en_airport_1="Moscow / Vko" ru_airport_1="Москва / ВНК" airport_1="Москва / ВНК"/>
+		</airports>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>РусЛайн А/К АО</airline>
+		<en_airline>Ruslines</en_airline>
+		<ru_airline>РусЛайн А/К АО</ru_airline>
+		<ru_aircraft>Bombardier CRJ100 </ru_aircraft>
+		<en_aircraft>Bombardier CRJ100 </en_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044660</flight_id>
+		<airline_id>4214</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>WZ791</flight>
+		<ru_flight_number>ИН-791</ru_flight_number>
+		<en_flight_number>WZ-791</en_flight_number>
+		<plan>11.08 13:25</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Ред Вингс АО</airline>
+		<en_airline>Red wings</en_airline>
+		<ru_airline>Ред Вингс АО</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044697</flight_id>
+		<airline_id>7019</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>N4745</flight>
+		<ru_flight_number>КЛ-745</ru_flight_number>
+		<en_flight_number>N4-745</en_flight_number>
+		<plan>11.08 13:55</plan>
+		<airport>Самара (Курумоч)</airport>
+		<ru_airport>Самара (Курумоч)</ru_airport>
+		<en_airport>Samara</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Северный Ветер ООО</airline>
+		<en_airline>b66ea8a8-5bfa-11e2-8b35-441ea14957ee</en_airline>
+		<ru_airline>Северный Ветер ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044733</flight_id>
+		<airline_id>6054</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT1030</flight>
+		<ru_flight_number>ЮТ-1030</ru_flight_number>
+		<en_flight_number>UT-1030</en_flight_number>
+		<plan>11.08 15:00</plan>
+		<airport>Пермь (Большое Савино)</airport>
+		<ru_airport>Пермь (Большое Савино)</ru_airport>
+		<en_airport>Perm</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044665</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72105</flight>
+		<ru_flight_number>С7-2105</ru_flight_number>
+		<en_flight_number>S7-2105</en_flight_number>
+		<plan>11.08 15:25</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044681</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare>BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805,BA8805</codeschare>
+	</block>
+	<block>
+		<flight>IO237</flight>
+		<ru_flight_number>РД-237</ru_flight_number>
+		<en_flight_number>IO-237</en_flight_number>
+		<plan>11.08 15:25</plan>
+		<airport>Омск</airport>
+		<ru_airport>ИРКУТСК Омск</ru_airport>
+		<en_airport>IRKUTSK Omsk</en_airport>
+		<airports>
+			<item en_airport_1="IRKUTSK" ru_airport_1="ИРКУТСК" airport_1="ИРКУТСК"/>
+		</airports>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ИрАэро А/К АО</airline>
+		<en_airline>Aircompany irair</en_airline>
+		<ru_airline>ИрАэро А/К АО</ru_airline>
+		<ru_aircraft>SSJ100-9</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044702</flight_id>
+		<airline_id>4173</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT459</flight>
+		<ru_flight_number>ЮТ-459</ru_flight_number>
+		<en_flight_number>UT-459</en_flight_number>
+		<plan>11.08 15:35</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044700</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV6205</flight>
+		<ru_flight_number>ФВ-6205</ru_flight_number>
+		<en_flight_number>FV-6205</en_flight_number>
+		<plan>11.08 15:55</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044728</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>WZ283</flight>
+		<ru_flight_number>ИН-283</ru_flight_number>
+		<en_flight_number>WZ-283</en_flight_number>
+		<plan>11.08 16:10</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ОТМЕНЕН</status>
+		<airline>Ред Вингс АО</airline>
+		<en_airline>Red wings</en_airline>
+		<ru_airline>Ред Вингс АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>1</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044744</flight_id>
+		<airline_id>7019</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>7R959</flight>
+		<ru_flight_number>РГ-959</ru_flight_number>
+		<en_flight_number>7R-959</en_flight_number>
+		<plan>11.08 16:40</plan>
+		<airport>Псков</airport>
+		<ru_airport>Калининград (Храброво) Псков</ru_airport>
+		<en_airport>Kaliningrad Pskov</en_airport>
+		<airports>
+			<item en_airport_1="Kaliningrad" ru_airport_1="Калининград (Храброво)" airport_1="Калининград (Храброво)"/>
+		</airports>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>РусЛайн А/К АО</airline>
+		<en_airline>Ruslines</en_airline>
+		<ru_airline>РусЛайн А/К АО</ru_airline>
+		<ru_aircraft>Bombardier CRJ200</ru_aircraft>
+		<en_aircraft>Bombardier CRJ200 </en_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044664</flight_id>
+		<airline_id>4214</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5929</flight>
+		<ru_flight_number>ФВ-5929</ru_flight_number>
+		<en_flight_number>FV-5929</en_flight_number>
+		<plan>11.08 16:45</plan>
+		<airport>Новосибирск (ТЛЧ)</airport>
+		<ru_airport>Новосибирск (ТЛЧ)</ru_airport>
+		<en_airport>Novosibirsk</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044714</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1142</flight>
+		<ru_flight_number>СУ-1142</ru_flight_number>
+		<en_flight_number>SU-1142</en_flight_number>
+		<plan>11.08 17:20</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044683</flight_id>
+		<airline_id>275</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP149</flight>
+		<ru_flight_number>ДР-149</ru_flight_number>
+		<en_flight_number>DP-149</en_flight_number>
+		<plan>11.08 17:25</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044629</flight_id>
+		<airline_id>9279</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6157</flight>
+		<ru_flight_number>У6-157</ru_flight_number>
+		<en_flight_number>U6-157</en_flight_number>
+		<plan>11.08 17:55</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044648</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5905</flight>
+		<ru_flight_number>ФВ-5905</ru_flight_number>
+		<en_flight_number>FV-5905</en_flight_number>
+		<plan>11.08 18:30</plan>
+		<airport>Казань (Основной)</airport>
+		<ru_airport>Казань (Основной)</ru_airport>
+		<en_airport>Kazan</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044717</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>D273</flight>
+		<ru_flight_number>Д2-73</ru_flight_number>
+		<en_flight_number>D2-73</en_flight_number>
+		<plan>11.08 18:40</plan>
+		<airport>Петрозаводск (Бесовец)</airport>
+		<ru_airport>Петрозаводск (Бесовец)</ru_airport>
+		<en_airport>Petrozavodsk</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Северсталь ООО а/п</airline>
+		<en_airline>Severstal </en_airline>
+		<ru_airline>Северсталь ООО а/п</ru_airline>
+		<ru_aircraft>SSJ100-9</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044677</flight_id>
+		<airline_id>6875</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV6203</flight>
+		<ru_flight_number>ФВ-6203</ru_flight_number>
+		<en_flight_number>FV-6203</en_flight_number>
+		<plan>11.08 18:50</plan>
+		<airport>Санкт-Петербург (ПЛК)</airport>
+		<ru_airport>Санкт-Петербург (ПЛК)</ru_airport>
+		<en_airport>St-Petersburg (PLK)</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>А-319</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044678</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare>SU6203</codeschare>
+	</block>
+	<block>
+		<flight>EO687</flight>
+		<ru_flight_number>ЕО-687</ru_flight_number>
+		<en_flight_number>EO-687</en_flight_number>
+		<plan>11.08 18:55</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Икар А/К ООО</airline>
+		<en_airline>aad578d9-d7cf-11e2-bb57-441ea14957ee</en_airline>
+		<ru_airline>Икар А/К ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044736</flight_id>
+		<airline_id>4016</airline_id>
+		<sched>DOM</sched>
+		<codeschare>N4687,N4687,N4687,N4687,N4687,N4687,EO687</codeschare>
+	</block>
+	<block>
+		<flight>5N105</flight>
+		<ru_flight_number>5Н-105</ru_flight_number>
+		<en_flight_number>5N-105</en_flight_number>
+		<plan>11.08 19:25</plan>
+		<airport>Архангельск (Талаги)</airport>
+		<ru_airport>Архангельск (Талаги)</ru_airport>
+		<en_airport>Arkhangelsk</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Нордавиа - РА А/К ЗАО</airline>
+		<en_airline>Arkhangelsk airlines </en_airline>
+		<ru_airline>Нордавиа - РА А/К ЗАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044722</flight_id>
+		<airline_id>1002</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT515</flight>
+		<ru_flight_number>ЮТ-515</ru_flight_number>
+		<en_flight_number>UT-515</en_flight_number>
+		<plan>11.08 19:30</plan>
+		<airport>Тюмень (Рощино)</airport>
+		<ru_airport>Тюмень (Рощино)</ru_airport>
+		<en_airport>Tyumen</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044625</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>U6443</flight>
+		<ru_flight_number>У6-443</ru_flight_number>
+		<en_flight_number>U6-443</en_flight_number>
+		<plan>11.08 19:40</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Уральские авиалинии ОАО А/К</airline>
+		<en_airline>Ural airlines</en_airline>
+		<ru_airline>Уральские авиалинии ОАО А/К</ru_airline>
+		<ru_aircraft>А-321</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044674</flight_id>
+		<airline_id>42</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>Y7919</flight>
+		<ru_flight_number>ТИ-919</ru_flight_number>
+		<en_flight_number>Y7-919</en_flight_number>
+		<plan>11.08 19:50</plan>
+		<airport>Уфа</airport>
+		<ru_airport>Норильск (Алыкель) Уфа</ru_airport>
+		<en_airport>Norilsk Ufa</en_airport>
+		<airports>
+			<item en_airport_1="Norilsk" ru_airport_1="Норильск (Алыкель)" airport_1="Норильск (Алыкель)"/>
+		</airports>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>НордСтар АК АО</airline>
+		<en_airline>Aviata</en_airline>
+		<ru_airline>НордСтар АК АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044650</flight_id>
+		<airline_id>4211</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5921</flight>
+		<ru_flight_number>ФВ-5921</ru_flight_number>
+		<en_flight_number>FV-5921</en_flight_number>
+		<plan>11.08 20:00</plan>
+		<airport>Екатеринбург (Кольцово)</airport>
+		<ru_airport>Екатеринбург (Кольцово)</ru_airport>
+		<en_airport>Ekaterinburg</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044718</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>FV5925</flight>
+		<ru_flight_number>ФВ-5925</ru_flight_number>
+		<en_flight_number>FV-5925</en_flight_number>
+		<plan>11.08 20:25</plan>
+		<airport>Тюмень (Рощино)</airport>
+		<ru_airport>Тюмень (Рощино)</ru_airport>
+		<en_airport>Tyumen</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Россия А/К АО</airline>
+		<en_airline>Russia</en_airline>
+		<ru_airline>Россия А/К АО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044721</flight_id>
+		<airline_id>127</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>SU1542</flight>
+		<ru_flight_number>СУ-1542</ru_flight_number>
+		<en_flight_number>SU-1542</en_flight_number>
+		<plan>11.08 20:40</plan>
+		<airport>Москва / ШРМ</airport>
+		<ru_airport>Москва / ШРМ</ru_airport>
+		<en_airport>Moscow / Svo</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Аэрофлот-Российские Авиалинии ПАО</airline>
+		<en_airline>Aeroflot Russian Airlines</en_airline>
+		<ru_airline>Аэрофлот-Российские Авиалинии ПАО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044687</flight_id>
+		<airline_id>275</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT461</flight>
+		<ru_flight_number>ЮТ-461</ru_flight_number>
+		<en_flight_number>UT-461</en_flight_number>
+		<plan>11.08 20:45</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-4</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044698</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>S72107</flight>
+		<ru_flight_number>С7-2107</ru_flight_number>
+		<en_flight_number>S7-2107</en_flight_number>
+		<plan>11.08 21:10</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Сибирь Авиакомпания АО</airline>
+		<en_airline>Siberia airlines</en_airline>
+		<ru_airline>Сибирь Авиакомпания АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044740</flight_id>
+		<airline_id>105</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>N4743</flight>
+		<ru_flight_number>КЛ-743</ru_flight_number>
+		<en_flight_number>N4-743</en_flight_number>
+		<plan>11.08 21:35</plan>
+		<airport>Уфа</airport>
+		<ru_airport>Уфа</ru_airport>
+		<en_airport>Ufa</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Северный Ветер ООО</airline>
+		<en_airline>b66ea8a8-5bfa-11e2-8b35-441ea14957ee</en_airline>
+		<ru_airline>Северный Ветер ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044730</flight_id>
+		<airline_id>6054</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>UT1032</flight>
+		<ru_flight_number>ЮТ-1032</ru_flight_number>
+		<en_flight_number>UT-1032</en_flight_number>
+		<plan>11.08 21:50</plan>
+		<airport>Казань (Основной)</airport>
+		<ru_airport>Казань (Основной)</ru_airport>
+		<en_airport>Kazan</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>ЮТэйр А/К ПАО</airline>
+		<en_airline>Air Company "Utair"</en_airline>
+		<ru_airline>ЮТэйр А/К ПАО</ru_airline>
+		<ru_aircraft>Б737-5</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044691</flight_id>
+		<airline_id>143</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP147</flight>
+		<ru_flight_number>ДР-147</ru_flight_number>
+		<en_flight_number>DP-147</en_flight_number>
+		<plan>11.08 22:50</plan>
+		<airport>Москва / ВНК</airport>
+		<ru_airport>Москва / ВНК</ru_airport>
+		<en_airport>Moscow / Vko</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044632</flight_id>
+		<airline_id>9279</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>DP384</flight>
+		<ru_flight_number>ДР-384</ru_flight_number>
+		<en_flight_number>DP-384</en_flight_number>
+		<plan>11.08 23:15</plan>
+		<airport>Казань (Основной)</airport>
+		<ru_airport>Казань (Основной)</ru_airport>
+		<en_airport>Kazan</en_airport>
+		<status>ПО РАСПИСАНИЮ</status>
+		<airline>Авиакомпания Победа ООО</airline>
+		<en_airline>Pobeda Airlines </en_airline>
+		<ru_airline>Авиакомпания Победа ООО</ru_airline>
+		<ru_aircraft>Б737-8</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>0</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044635</flight_id>
+		<airline_id>9279</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+	<block>
+		<flight>WZ285</flight>
+		<ru_flight_number>ИН-285</ru_flight_number>
+		<en_flight_number>WZ-285</en_flight_number>
+		<plan>11.08 23:20</plan>
+		<airport>МОСКВА / ДМД</airport>
+		<ru_airport>МОСКВА / ДМД</ru_airport>
+		<en_airport>MOSCOW / DME</en_airport>
+		<status>ОТМЕНЕН</status>
+		<airline>Ред Вингс АО</airline>
+		<en_airline>Red wings</en_airline>
+		<ru_airline>Ред Вингс АО</ru_airline>
+		<ru_aircraft>А-320</ru_aircraft>
+		<gate>1</gate>
+		<isCanceled>1</isCanceled>
+		<isDelayed>0</isDelayed>
+		<flight_id>Р0000044742</flight_id>
+		<airline_id>7019</airline_id>
+		<sched>DOM</sched>
+		<codeschare/>
+	</block>
+</flight_list>
